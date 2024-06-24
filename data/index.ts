@@ -50,7 +50,7 @@ export const gridItems = [
   {
     id: 5,
     title: "Currently building a Banking and Finance app",
-    description: "The Inside Scoop",
+    description: "Banking App",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
     titleClassName: "justify-center md:justify-start lg:justify-center",
@@ -113,27 +113,27 @@ export const testimonials = [
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Lawi was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Lawi's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Lawi is the ideal partner.",
+    name: "Sandra Njeri",
+    title: "Employee at Crisis Control East Africa",
+  }, 
+  {
+    quote:
+      "Collaborating with Lawi was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Lawi's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Lawi is the ideal partner.",
+    name: "Sandra Njeri",
+    title: "Employee at Crisis Control East Africa",
+  }, 
+  {
+    quote:
+      "Collaborating with Lawi was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Lawi's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Lawi is the ideal partner.",
+    name: "Sandra Njeri",
+    title: "Employee at Crisis Control East Africa",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Lawi was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Lawi's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Lawi is the ideal partner.",
+    name: "Sandra Njeri",
+    title: "Employee at Crisis Control East Africa",
   },
 ];
 
@@ -199,5 +199,6 @@ export const socialMedia = [
   {
     id: 3,
     img: "/link.svg",
+    link: "www.linkedin.com/in/lawi-mwaura",
   },
 ];
